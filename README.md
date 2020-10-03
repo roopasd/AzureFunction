@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
 - [Trigger Type](#trigger-type) 
 - [Blob Storage Trigger](#blob-storage-trigger)
-* [MostSimple_1in1out](#MostSimple_1in1out) 
+  * [MostSimple_1in1out](#MostSimple_1in1out) 
 
 ## Introduction
 
